@@ -11,7 +11,8 @@ See API Spec (modified from RealWorld API Spec to simplify)
 - ORM: gorm
 
 ### Getting Started
-copy this project to your directory then you can start this app by using command "go run main.go" 
+copy this project to your directory then you can start this app by using command below 
+> ####  go run main.go
 
 ### Endpoint
 | Action  | Verb | Path | Description | 
